@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/aves1.jpg);
+    
+}
+main{
+    background-color: white;
+    margin-inline: 350px;
+    border-radius: 30px;
+    border-style: solid;
+    
+    
+}
+header{
+    zoom: 120%;
+    text-align: center;
+    color: black;
+    text-shadow: 1px 1  px gray;
+    border-radius: 10px;
+    background-color: #E2E2E1;
+    border-color: black;
+    border-style: solid;
+    
+}   
+div{
+    zoom: 110%;
+    text-align: center;
+    color: black;   
+    font-weight: bold;
+    background-color: whitesmoke;
+    padding-bottom: 100px;
+}
